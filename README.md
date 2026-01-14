@@ -1,3 +1,50 @@
+# 👋 Hello, I'm ca971
+
+<p align="left">
+<img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-Zsh_&_Chezmoi-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Signed_Commits-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 About Me
+- 👨‍💻 **Role:** Power User & Automation Enthusiast.
+- 🛠 **Workflow:** Focused on dotfiles portability with **Chezmoi**, SSH security, and terminal productivity.
+- ⚡ **Philosophy:** "Simplicity is the soul of efficiency."
+- 🔒 **Security:** All my work is cryptographically signed.
+
+---
+
+### 🛠 My Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Terminal** | `Zsh`, `Chezmoi`, `Git`, `SSH` |
+| **System** | `macOS`, `Colima (Docker)`, `Homebrew` |
+| **Editor** | `VS Code`, `Nano/Vim` |
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🗂 Featured Projects
+- ⚙️ **[dotfiles](https://github.com/ca971/dotfiles)** - My automated macOS environment managed by Chezmoi.
+- 🏗 **Work in Progress** - Currently cleaning up a 7-year legacy of projects.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ca971&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
+</p>
+
+
+<!--
 # 👋 Hello, I'm [ca971]
 
 <p align="left">
@@ -38,15 +85,11 @@
 
 ### 🗂 Featured Projects
 - ⚙️ **[Dotfiles](https://github.com/ca971/dotfiles)**: My personalized macOS/Zsh configuration.
-<!--
-- 🚀 *[]*: Brève description de votre projet principal de 7 ans.
--->
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ca971&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
 </p>
-
+-->
 
 
 <!--
