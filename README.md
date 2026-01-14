@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my new dotfiles
+- 🌱 I’m currently learning new tips Proxmox
+
+![ca971's stats](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radical)
 <!--
 **ca971/ca971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
