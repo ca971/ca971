@@ -59,7 +59,16 @@
 </p>
 -->
 
+<!--
 ![ca971's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=tokyonight)
+-->
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats de ca971" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Most used languages" width="45%" />
+</p>
 
 ---
 
