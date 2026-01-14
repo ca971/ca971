@@ -1,29 +1,45 @@
 # 👋 Hello, I'm ca971
-
+<!--
 <p align="left">
 <img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell-Zsh_&_Chezmoi-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-Signed_Commits-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+-->
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-blue?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnubash" />
+</p>
 ---
 
 ### 🚀 About Me
 - 👨‍💻 **Role:** Power User & Automation Enthusiast.
-- 🛠 **Workflow:** Focused on dotfiles portability with **Chezmoi**, SSH security, and terminal productivity.
+- 🛠 **Environment:** Passionate about CLI tools, terminal productivity, and clean code.
 - ⚡ **Philosophy:** "Simplicity is the soul of efficiency."
-- 🔒 **Security:** All my work is cryptographically signed.
+- 🔒 **Security:** All my commits are verified via SSH/GPG signing.
+- 🏗 **Philosophy:** "If you have to do it twice, automate it."
 
 ---
 
 ### 🛠 My Tech Stack
 | Category | Tools |
 | :--- | :--- |
+| **Terminal & Shell** | ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=zsh&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white) |
+| **Development** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **System** | ![Apple](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+<!--
+| Category | Tools |
+| :--- | :--- |
 | **Terminal** | `Zsh`, `Chezmoi`, `Git`, `SSH` |
 | **System** | `macOS`, `Colima (Docker)`, `Homebrew` |
 | **Editor** | `VS Code`, `Nano/Vim` |
+-->
 
 ---
+<!--
 ### 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats-one-pi.vercel.app/api?username=ca971&show_icons=true&theme=nord)
@@ -31,14 +47,14 @@
 ![Top Langs](https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ca971&theme=nord)
+-->
 
-<!--
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=nord&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord&hide_border=true" width="45%" />
 </p>
--->
+
 
 ---
 
