@@ -30,6 +30,8 @@
 
 ![Top Langs](https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ca971&theme=nord)
+
 <!--
 ### 📊 GitHub Activity
 <p align="center">
