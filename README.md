@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=ca971&fontSize=70)
+
 # 👋 Hello, I'm ca971
 <!--
 <p align="left">
