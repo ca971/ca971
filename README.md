@@ -24,12 +24,19 @@
 | **Editor** | `VS Code`, `Nano/Vim` |
 
 ---
+### 📊 GitHub Activity
 
+![GitHub Stats](https://github-readme-stats-one-pi.vercel.app/api?username=ca971&show_icons=true&theme=nord)
+
+![Top Langs](https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord)
+
+<!--
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=nord&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord&hide_border=true" width="45%" />
 </p>
+-->
 
 ---
 
