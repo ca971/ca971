@@ -51,12 +51,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ca971&theme=nord)
 -->
 
+<!--
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=nord&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord&hide_border=true" width="45%" />
 </p>
+-->
 
+![ca971's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=tokyonight)
 
 ---
 
