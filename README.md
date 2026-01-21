@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github.com/ca971/dotfiles/blob/main/dot_config/nvim/static/header.png" alt="ca971 Nvim">
-</div>div>
+</div>
 
 # 👋 Hello, I'm ca971
 <!--
