@@ -1,4 +1,10 @@
+<!--
 ![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=ca971&fontSize=70)
+-->
+
+<div align="center">
+  <img src="https://github.com/ca971/dotfiles/blob/main/dot_config/nvim/static/header.png" alt="ca971 Nvim">
+</div>div>
 
 # 👋 Hello, I'm ca971
 <!--
