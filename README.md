@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/ca971/dotfiles/blob/main/dot_config/nvim/static/header.png" alt="ca971 Nvim">
+  <img src="https://github.com/ca971/dotfiles/blob/main/dot_config/nvim/static/ca971.png" alt="ca971 Nvim">
 </div>
 
 # 👋 Hello, I'm ca971
