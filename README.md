@@ -125,8 +125,21 @@ curl -fsSL https://raw.githubusercontent.com/ca971/nvim-enterprise/main/install.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ca971&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ca971&theme=default" width="700" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ca971&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ca971&theme=default" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ca971&theme=tokyonight&utcOffset=1">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ca971&theme=default&utcOffset=1" height="170" />
+</picture>
 
 <br/>
 
