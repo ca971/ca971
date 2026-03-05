@@ -1,159 +1,170 @@
-<!--
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=ca971&fontSize=70)
--->
-
 <div align="center">
-  <img src="https://github.com/ca971/dotfiles/blob/main/dot_config/nvim/static/ca971.png" alt="ca971 Nvim">
+
+<img src="ca971.svg" alt="ca971 - Christian ACHILLE — Full-Stack Developer" width="100%" />
+
 </div>
 
-# 👋 Hello, I'm ca971
-<!--
-<p align="left">
-<img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-Zsh_&_Chezmoi-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Signed_Commits-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
--->
+<br/><br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-blue?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnubash" />
-</p>
----
+<div align="center">
 
-### 🚀 About Me
-- 👨‍💻 **Role:** Power User & Automation Enthusiast.
-- 🛠 **Environment:** Passionate about CLI tools, terminal productivity, and clean code.
-- ⚡ **Philosophy:** "Simplicity is the soul of efficiency."
-- 🔒 **Security:** All my commits are verified via SSH/GPG signing.
-- 🏗 **Philosophy:** "If you have to do it twice, automate it."
+# Hey, I'm ca971 - Christian ACHILLE 👋
+
+**Full-Stack Developer · Software Engineer · Open Source Craftsman**
+
+I build tools that empower developers and engineering teams.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianachille/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChristianACHIL)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/christianachille971/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ca971)
+
+</div>
 
 ---
 
-### 🛠 My Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **Terminal & Shell** | ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=zsh&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white) |
-| **Development** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **System** | ![Apple](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+## 🧑‍💻 About Me
 
-<!--
-| Category | Tools |
-| :--- | :--- |
-| **Terminal** | `Zsh`, `Chezmoi`, `Git`, `SSH` |
-| **System** | `macOS`, `Colima (Docker)`, `Homebrew` |
-| **Editor** | `VS Code`, `Nano/Vim` |
--->
-
----
-<!--
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats-one-pi.vercel.app/api?username=ca971&show_icons=true&theme=nord)
-
-![Top Langs](https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ca971&theme=nord)
--->
-
-<!--
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=nord&hide_border=true" width="45%" />
-</p>
--->
-
-<!--
-![ca971's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=tokyonight)
--->
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats de ca971" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Most used languages" width="45%" />
-</p>
+```text
+🇫🇷 Based in France
+💼 Full-Stack Developer & Software Engineer
+🖥️ Sysadmin — Linux servers, Proxmox virtualization, self-hosting
+🔭 Creator of NvimEnterprise — enterprise-grade Neovim framework
+🧩 Passionate about developer tooling, automation & clean architecture
+🌱 Currently exploring AI-assisted development & data engineering
+⚡ Fun fact: my Neovim config has OOP patterns, CI/CD, and release notes
+```
 
 ---
 
-### 🗂 Featured Projects
-- ⚙️ **[dotfiles](https://github.com/ca971/dotfiles)** - My automated macOS environment managed by Chezmoi.
-- 🏗 **Work in Progress** - Currently cleaning up a 7-year legacy of projects.
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/ca971/nvim-enterprise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ca971&repo=nvim-enterprise&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> **[NvimEnterprise](https://github.com/ca971/nvim-enterprise)** — A production-ready, multi-user
+> Neovim framework with OOP architecture, 45+ language modules, 35+ plugins, AI integration,
+> and full CI/CD pipeline.
+
+| Highlights | |
+|---|---|
+| 🏗️ OOP class system with inheritance & mixins | 🤖 4 AI integrations (Copilot, Avante, Claude…) |
+| 👥 Multi-user namespaces with hot-swap | 🌐 Cross-platform (macOS, Linux, Windows, WSL, BSD) |
+| 🌍 45+ language modules (plug-and-play) | 🛡️ Security sandbox & path validation |
+| 🔌 35+ lazy-loaded plugins | ⚡ Startup < 50ms |
+
+```bash
+# Try it now
+curl -fsSL https://raw.githubusercontent.com/ca971/nvim-enterprise/main/install.sh | bash
+```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ca971&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
-</p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<!--
-# 👋 Hello, I'm [ca971]
+**Languages**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-blue?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnubash" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/PowerPivot-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tools & Environment**
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)
+
+</div>
 
 ---
 
-### ⚡ About Me
+## 📊 GitHub Stats
 
-- 🔭 **Current Focus:** Optimizing my [Dotfiles](https://github.com/ca971/dotfiles) and workflow automation.
-- 🛠 **Environment:** Passionate about CLI tools, terminal productivity, and clean code.
-- 🔒 **Security:** All my commits are verified via SSH/GPG signing.
-- 🏗 **Philosophy:** "If you have to do it twice, automate it."
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
-### 🛠 Tech Stack & Tools
+<br/>
 
-| Category | Tools |
-| :--- | :--- |
-| **Terminal & Shell** | ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=zsh&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white) |
-| **Development** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **System** | ![Apple](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ca971&theme=tokyonight&hide_border=true" width="700" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ca971&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats de ca971" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca971&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Most used languages" width="45%" />
-</p>
+| Project | Description | Status |
+|---|---|---|
+| [**NvimEnterprise**](https://github.com/ca971/nvim-enterprise) | Enterprise-grade Neovim framework | 🟢 Active |
+| **Homelab** | Self-hosted infra on Proxmox (VMs, LXC, Docker) | 🟢 Active |
+| **Data Dashboards** | PowerPivot & analytics solutions | 🔵 Ongoing |
 
 ---
 
-### 🗂 Featured Projects
-- ⚙️ **[Dotfiles](https://github.com/ca971/dotfiles)**: My personalized macOS/Zsh configuration.
+## 💡 Philosophy
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ca971&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
-</p>
--->
+```text
+"Automate everything. Document the rest. Share it all."
+```
 
+- 🧩 **Modularity** — Small, composable pieces over monoliths
+- 🤖 **Automation** — If you do it twice, script it
+- 📖 **Documentation** — Code without docs is a liability
+- 🛡️ **Security by default** — Not as an afterthought
+- 🤝 **Open Source** — Knowledge grows when shared
 
-<!--
-## Hi there 👋
+---
 
-- 🔭 I’m currently working on my new dotfiles
-- 🌱 I’m currently learning new tips Proxmox
+<div align="center">
 
-![ca971's stats](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radical)
-**ca971/ca971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=ca971&color=blueviolet&style=flat-square&label=Profile+Views" />
 
-Here are some ideas to get you started:
+If you like my work, consider giving a ⭐ to [NvimEnterprise](https://github.com/ca971/nvim-enterprise)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's connect — I'm always open to collaboration.**
+
+</div>
