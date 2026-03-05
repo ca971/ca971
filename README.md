@@ -42,7 +42,15 @@ I build tools that empower developers and engineering teams.
 <div align="center">
 
 <a href="https://github.com/ca971/nvim-enterprise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ca971&repo=nvim-enterprise&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NvimEnterprise-Enterprise--Grade%20Neovim%20Framework-57A143?style=for-the-badge&logo=neovim&logoColor=white">
+    <img src="https://img.shields.io/badge/NvimEnterprise-Enterprise--Grade%20Neovim%20Framework-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NvimEnterprise" />
+  </picture>
+  <br/>
+  <img src="https://img.shields.io/github/stars/ca971/nvim-enterprise?style=flat-square&color=yellow&label=Stars" />
+  <img src="https://img.shields.io/github/forks/ca971/nvim-enterprise?style=flat-square&color=blue&label=Forks" />
+  <img src="https://img.shields.io/github/last-commit/ca971/nvim-enterprise?style=flat-square&color=green&label=Last%20Commit" />
+  <img src="https://img.shields.io/github/v/release/ca971/nvim-enterprise?style=flat-square&color=purple&label=Release" />
 </a>
 
 </div>
